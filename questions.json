@@ -1,0 +1,300 @@
+{
+  "heading": "Passive and Active Voice",
+  "topics": [
+    {
+      "heading": "Active and Passive Voice",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank: <br>In passive voice, we often use the word \"___\" before mentioning who did the action. (by / to)",
+          "options": [
+            "a) by",
+            "b) to"
+          ],
+          "answer": 0,
+          "explanation": "\"By\" is commonly used to introduce the doer in passive voice."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence is in active voice?",
+          "options": [
+            "a) The game was won by our team",
+            "b) Our team won the game",
+            "c) The game is being won",
+            "d) Winning was done by our team"
+          ],
+          "answer": 1,
+          "explanation": "The subject (our team) is directly performing the action (won)."
+        },
+        {
+          "questionNo": 3,
+          "question": "The passive form of \"Lisa paints beautiful pictures\" is:",
+          "options": [
+            "a) Beautiful pictures painted by Lisa",
+            "b) Beautiful pictures are painted by Lisa",
+            "c) Lisa is painting beautiful pictures",
+            "d) Painting is done by Lisa"
+          ],
+          "answer": 1,
+          "explanation": "This correctly changes the active voice to passive, keeping the present tense."
+        },
+        {
+          "questionNo": 4,
+          "question": "In passive voice, the subject of the active sentence becomes the:",
+          "options": [
+            "a) Verb",
+            "b) Object",
+            "c) Adjective",
+            "d) Adverb"
+          ],
+          "answer": 1,
+          "explanation": "The subject in the active voice becomes the object in the passive voice."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank:<br> \"The letter _____ written by John.\" (Use the correct form of \"to be\")",
+          "options": [
+            "a) are",
+            "b) was"
+          ],
+          "answer": 1,
+          "explanation": "\"Was\" is the correct past tense form of \"to be\" for this passive sentence."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is in passive voice?",
+          "options": [
+            "a) The cat chased the mouse",
+            "b) The mouse ran away",
+            "c) The mouse was chased by the cat",
+            "d) The cat and mouse played"
+          ],
+          "answer": 2,
+          "explanation": "This sentence puts the object (mouse) first and uses \"was chased.\""
+        },
+        {
+          "questionNo": 7,
+          "question": "The active voice of \"The pizza was delivered by the driver\" is:",
+          "options": [
+            "a) The driver delivered the pizza",
+            "b) The driver delivers the pizza",
+            "c) The pizza is delivering",
+            "d) The driver is delivering the pizza"
+          ],
+          "answer": 0,
+          "explanation": "This puts the doer (driver) first and uses the simple past tense."
+        },
+        {
+          "questionNo": 8,
+          "question": "In the sentence \"The book is read by students,\" what is the verb phrase?",
+          "options": [
+            "a) The book",
+            "b) Read by",
+            "c) By students",
+            "d) Is read"
+          ],
+          "answer": 3,
+          "explanation": "\"Is read\" is the passive verb phrase in this sentence."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank:<br> \"Mistakes _____ made by everyone.\" (Use the correct form of \"to be\")",
+          "options": [
+            "a) is",
+            "b) are",
+            "c) was"
+          ],
+          "answer": 1,
+          "explanation": "\"Are\" is the correct present tense form of \"to be\" for this passive sentence."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which sentence uses active voice?",
+          "options": [
+            "a) The cake was eaten by the children",
+            "b) Eating was done by the children",
+            "c) The cake is being eaten",
+            "d) The children ate the cake"
+          ],
+          "answer": 3,
+          "explanation": "The subject (children) is directly performing the action (ate)."
+        },
+        {
+          "questionNo": 11,
+          "question": "The passive form of \"They will announce the winner tomorrow\" is:",
+          "options": [
+            "a) The winner will announce tomorrow",
+            "b) The winner will be announced tomorrow",
+            "c) They are announcing the winner tomorrow",
+            "d) The winner is announced tomorrow"
+          ],
+          "answer": 1,
+          "explanation": "This correctly changes the active voice to passive, keeping the future tense."
+        },
+        {
+          "questionNo": 12,
+          "question": "In active voice, who or what comes first in the sentence?",
+          "options": [
+            "a) The object",
+            "b) The verb",
+            "c) The subject",
+            "d) The adverb"
+          ],
+          "answer": 2,
+          "explanation": "In active voice, the subject (doer of the action) typically comes first."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank:<br> \"The house _____ painted by the workers.\" (Use the correct form of \"to be\") (was / were)",
+          "options": [
+            "a) was",
+            "b) were"
+          ],
+          "answer": 0,
+          "explanation": "\"Was\" is the correct past tense form of \"to be\" for this passive sentence."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which sentence is in passive voice?",
+          "options": [
+            "a) The dog barks loudly",
+            "b) The cat climbs the tree",
+            "c) The tree is being climbed by the cat",
+            "d) The birds sing sweetly"
+          ],
+          "answer": 2,
+          "explanation": "This sentence puts the object (tree) first and uses \"is being climbed.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "In passive voice, what happens to the main verb?",
+          "options": [
+            "a) It stays the same",
+            "b) It changes to past tense",
+            "c) It becomes a noun",
+            "d) It changes to past participle"
+          ],
+          "answer": 3,
+          "explanation": "In passive voice, the main verb changes to its past participle form."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which sentence uses passive voice?",
+          "options": [
+            "a) Tom writes a letter",
+            "b) A letter is written by Tom",
+            "c) The pen writes smoothly",
+            "d) Writing is Tom's hobby"
+          ],
+          "answer": 1,
+          "explanation": "This sentence puts the object (letter) first and uses \"is written.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "The passive form of \"The wind blows the leaves\" is:",
+          "options": [
+            "a) The leaves blow in the wind",
+            "b) The leaves are blown by the wind",
+            "c) The wind is blowing the leaves",
+            "d) Blowing is done to the leaves"
+          ],
+          "answer": 1,
+          "explanation": "This correctly changes the active voice to passive, keeping the present tense."
+        },
+        {
+          "questionNo": 18,
+          "question": "In the sentence \"The game was played by the team,\" what is the subject?",
+          "options": [
+            "a) The game",
+            "b) Was",
+            "c) Played",
+            "d) The team"
+          ],
+          "answer": 0,
+          "explanation": "In passive voice, the receiver of the action (game) becomes the subject."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank: <br>\"The story _____ told by grandpa every night.\" (Use the correct form of \"to be\") (is / are / were)",
+          "options": [
+            "a) is",
+            "b) are",
+            "c) were"
+          ],
+          "answer": 0,
+          "explanation": "\"Is\" is the correct present tense form of \"to be\" for this passive sentence."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence is in active voice?",
+          "options": [
+            "a) The car was washed by dad",
+            "b) The car is being washed",
+            "c) Dad washed the car",
+            "d) Washing was done to the car"
+          ],
+          "answer": 2,
+          "explanation": "The subject (Dad) is directly performing the action (washed)."
+        },
+        {
+          "questionNo": 21,
+          "question": "Fill in the blank:<br> \"The flowers _____ watered by the gardener.\" (Use the correct form of \"to be\") (was / were)",
+          "options": [
+            "a) was",
+            "b) were"
+          ],
+          "answer": 1,
+          "explanation": "\"Were\" is the correct past tense form of \"to be\" for this passive sentence."
+        },
+        {
+          "questionNo": 22,
+          "question": "Which sentence uses passive voice?",
+          "options": [
+            "a) The boy kicks the ball",
+            "b) The ball flies through the air",
+            "c) The ball is kicked by the boy",
+            "d) Kicking is fun for the boy"
+          ],
+          "answer": 2,
+          "explanation": "This sentence puts the object (ball) first and uses \"is kicked.\""
+        },
+        {
+          "questionNo": 23,
+          "question": "The active voice of \"The room was cleaned by the maid\" is:",
+          "options": [
+            "a) The maid cleans the room",
+            "b) The maid cleaned the room",
+            "c) The room is clean",
+            "d) The maid is cleaning the room"
+          ],
+          "answer": 1,
+          "explanation": "This puts the doer (maid) first and uses the simple past tense."
+        },
+        {
+          "questionNo": 24,
+          "question": "In the sentence \"The book was written by a famous author,\" what is the verb phrase?",
+          "options": [
+            "a) The book",
+            "b) Was written",
+            "c) By a famous author",
+            "d) Famous author"
+          ],
+          "answer": 1,
+          "explanation": "\"Was written\" is the passive verb phrase in this sentence."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of the following sentences is in active voice?",
+          "options": [
+            "a) The ancient treasure was discovered by the archaeologists.",
+            "b) A beautiful melody is being played by the violinist.",
+            "c) The curious children examine the colourful butterfly.",
+            "d) The delicious meal was enjoyed by everyone at the party."
+          ],
+          "answer": 2,
+          "explanation": "This sentence is in active voice because the subject (the curious children) is directly performing the action (examine)."
+        }
+      ]
+    }
+  ]
+}
